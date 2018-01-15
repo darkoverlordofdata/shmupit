@@ -1,0 +1,16 @@
+{
+  "name": "mt19937",
+  "authors": [
+    "Bruce Davidson <darkoverlordofdata@gmail.com>"
+  ],
+  "description": "Mersenne Twister PRNG",
+  "main": "CMakeLists.txt",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

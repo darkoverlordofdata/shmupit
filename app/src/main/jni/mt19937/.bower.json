@@ -1,0 +1,25 @@
+{
+  "name": "mt19937",
+  "authors": [
+    "Bruce Davidson <darkoverlordofdata@gmail.com>"
+  ],
+  "description": "Mersenne Twister PRNG",
+  "main": "CMakeLists.txt",
+  "homepage": "https://github.com/darkoverlordofdata/doran-mt19937",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "fa7133609d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fa7133609dcb599b9b89839c870f6730e8fda3dd"
+  },
+  "_source": "git://github.com/darkoverlordofdata/doran-mt19937.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/darkoverlordofdata/doran-mt19937"
+}

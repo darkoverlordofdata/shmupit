@@ -1,0 +1,25 @@
+{
+  "name": "zerog",
+  "authors": [
+    "Bruce Davidson <darkoverlordofdata@gmail.com>"
+  ],
+  "description": "Compact GLib",
+  "main": "CMakeLists.txt",
+  "homepage": "https://github.com/darkoverlordofdata/doran-zerog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "c8576f40ce",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c8576f40ce20530879e96bc365a4a36000bae1c1"
+  },
+  "_source": "git://github.com/darkoverlordofdata/doran-zerog.git",
+  "_target": "*",
+  "_originalSource": "git://github.com/darkoverlordofdata/doran-zerog"
+}
